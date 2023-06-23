@@ -61,7 +61,7 @@ sass:
 #collections
 collections:
   portfolios:
-    output: false
+    output: true
 
 ########################################################
 # Site configuration for the Jekyll 3 Pagination Gem
