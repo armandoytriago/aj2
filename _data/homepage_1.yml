@@ -12,17 +12,17 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
+- title : "Iac para manejar datos"
   icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Explora diversos proyecto para tus poc o mvp desde la infraestructura como codigo."
 
-- title : "Seo & Marketing"
+- title : "Platafomas de datos"
   icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Conoce las diversas plataformas que te ayudaran a sacar el maximo a tus datos de manera rentable."
 
-- title : "Creative Design"
+- title : "Procesos de datos"
   icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Vive la experiencia de procesar datos de distintas maneras, y entregando los mejores resultadops para tu analisis."
 
 
 ########################### Testimonial ###########################
