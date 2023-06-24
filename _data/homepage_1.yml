@@ -27,7 +27,7 @@ services:
 
 ########################### Testimonial ###########################
 testimonial:
-  enable : true
+  enable : false
   title : "clients feedback"
   subtitle : "testimonials"
   bg_image : "/assets/images/bg/testimonial-bg.png"
