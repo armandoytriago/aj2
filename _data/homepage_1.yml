@@ -12,6 +12,10 @@ hero_area:
 
 ########################### Service ##############################
 services:
+- title : "Nuestra Plataforma de Datos"
+  icon : "ti-ruler-pencil"
+  content : "Conoce nuestra plataforma de datos, intectuando con las distintas herramientas diponibles con la capa gratuita."
+
 - title : "Iac para manejar datos"
   icon : "ti-ruler-pencil"
   content : "Explora diversos proyecto para tus poc o mvp desde la infraestructura como codigo."
@@ -22,7 +26,7 @@ services:
 
 - title : "Procesos de datos"
   icon : "ti-palette"
-  content : "Vive la experiencia de procesar datos de distintas maneras, y entregando los mejores resultadops para tu analisis."
+  content : "Vive la experiencia de procesar datos de distintas maneras, y entregando los mejores resultados para tu analisis."
 
 
 ########################### Testimonial ###########################
