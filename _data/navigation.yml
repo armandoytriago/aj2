@@ -11,7 +11,7 @@ main:
         url: /index-3.html
       - name: Comunidades
         url: /index-4.html
-  - name: Productos / servicios
+  - name: servicios
     url: "#"
     submenu:
       - name: Plataformas de datos
@@ -24,7 +24,20 @@ main:
         url: /about-me.html
       - name: Automatizacion y Robotica
         url: /about-me.html
-  - name: Proyectos e Innovaciones
+  - name: servicios
+    url: "#"
+    submenu:
+      - name: Plataformas de datos
+        url: /about.html
+      - name: Servicios de Datos
+        url: /about.html
+      - name: IoT
+        url: /about-me.html
+      - name: Machine Learning
+        url: /about-me.html
+      - name: Automatizacion y Robotica
+        url: /about-me.html
+  - name: Innovaciones
     url: /
     submenu:
       - name: Iac
@@ -37,7 +50,7 @@ main:
         url: /portfolio-2.html
       - name: Machine Learning
         url: /404
-  - name: Proyectos e Innovaciones
+  - name: Proyectos
     url: /blog-1.html
   - name: Pages
     url: /
