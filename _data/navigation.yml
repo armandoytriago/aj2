@@ -3,27 +3,46 @@ main:
   - name: Home
     url: /
     submenu:
-      - name: Home
+      - name: Que es YTechnology?
         url: /index.html
-      - name: Home 2
+      - name: Casos de exitos
         url: /index-2.html
-      - name: Home 3
+      - name: Acerca de YTechnology
         url: /index-3.html
-      - name: Home 4
+      - name: Comunidades
         url: /index-4.html
-  - name: About
+  - name: Productos / servicios
     url: "#"
     submenu:
-      - name: About
+      - name: Plataformas de datos
         url: /about.html
-      - name: About Me
+      - name: Servicios de Datos
+        url: /about.html
+      - name: IoT
         url: /about-me.html
-  - name: Blog
+      - name: Machine Learning
+        url: /about-me.html
+      - name: Automatizacion y Robotica
+        url: /about-me.html
+  - name: Proyectos e Innovaciones
+    url: /
+    submenu:
+      - name: Iac
+        url: /services.html
+      - name: Cloud
+        url: /portfolio-1.html
+      - name: IoT
+        url: /portfolio-2.html
+      - name: Datos
+        url: /portfolio-2.html
+      - name: Machine Learning
+        url: /404
+  - name: Proyectos e Innovaciones
     url: /blog-1.html
   - name: Pages
     url: /
     submenu:
-      - name: Services
+      - name: Iac
         url: /services.html
       - name: Portfolio One
         url: /portfolio-1.html
