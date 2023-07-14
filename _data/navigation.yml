@@ -24,7 +24,7 @@ main:
         url: /about-me.html
       - name: Automatizacion y Robotica
         url: /about-me.html
-  - name: servicios
+  - name: productos
     url: "#"
     submenu:
       - name: Plataformas de datos
