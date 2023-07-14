@@ -52,17 +52,6 @@ main:
         url: /404
   - name: Proyectos
     url: /blog-1.html
-  - name: Pages
-    url: /
-    submenu:
-      - name: Iac
-        url: /services.html
-      - name: Portfolio One
-        url: /portfolio-1.html
-      - name: Portfolio Two
-        url: /portfolio-2.html
-      - name: 404
-        url: /404
   - name: Contact
     url: /contact.html
 
