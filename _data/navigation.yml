@@ -50,8 +50,6 @@ main:
         url: /portfolio-2.html
       - name: Machine Learning
         url: /404
-  - name: Proyectos
-    url: /blog-1.html
   - name: Contact
     url: /contact.html
 
