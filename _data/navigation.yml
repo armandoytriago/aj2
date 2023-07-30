@@ -22,7 +22,7 @@ main:
         url: /about-me.html
       - name: Machine Learning
         url: /about-me.html
-      - name: Automatizacion y Robotica
+      - name: RPA
         url: /about-me.html
 #  - name: productos
 #    url: "#"
