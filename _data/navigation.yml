@@ -24,19 +24,19 @@ main:
         url: /about-me.html
       - name: Automatizacion y Robotica
         url: /about-me.html
-  - name: productos
-    url: "#"
-    submenu:
-      - name: Plataformas de datos
-        url: /about.html
-      - name: Servicios de Datos
-        url: /about.html
-      - name: IoT
-        url: /about-me.html
-      - name: Machine Learning
-        url: /about-me.html
-      - name: Automatizacion y Robotica
-        url: /about-me.html
+#  - name: productos
+#    url: "#"
+#    submenu:
+#      - name: Plataformas de datos
+#        url: /about.html
+#      - name: Servicios de Datos
+#        url: /about.html
+#      - name: IoT
+#        url: /about-me.html
+#      - name: Machine Learning
+#        url: /about-me.html
+#      - name: Automatizacion y Robotica
+#        url: /about-me.html
   - name: Innovaciones
     url: /
     submenu:
@@ -54,17 +54,17 @@ main:
     url: /contact.html
 
 ########## footer menu ###############
-footer:
-  - name: Services
-    url: /services.html
-  - name: Portfolio One
-    url: /portfolio-1.html
-  - name: Portfolio Two
-    url: /portfolio-2.html
-  - name: Single Portfolio
-    url: /portfolio-single.html
-  - name: Contact
-    url: /contact.html
+#footer:
+#  - name: Services
+#    url: /services.html
+#  - name: Portfolio One
+#    url: /portfolio-1.html
+#  - name: Portfolio Two
+#    url: /portfolio-2.html
+#  - name: Single Portfolio
+#    url: /portfolio-single.html
+#  - name: Contact
+#    url: /contact.html
 
 ############## Bottom menu ###############
 bottom:
